@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "455970697164",
+    "project_id": "geomath-b3ed9",
+    "storage_bucket": "geomath-b3ed9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455970697164:android:7cd5ba8d7673b30e5bf769",
+        "android_client_info": {
+          "package_name": "com.example.geomath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TRnasJTa6eeWT7yafVLuwdpPzTXkiOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:455970697164:android:7a555473ff6d93be5bf769",
+        "android_client_info": {
+          "package_name": "com.fyp.geomath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4TRnasJTa6eeWT7yafVLuwdpPzTXkiOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
